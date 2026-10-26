@@ -82,5 +82,4 @@ The Sharpe ratio used here is a simplified version with no risk-free rate adjust
 
 # Author
 
-Ryan James Forrester — BSc Economics and Finance, Leeds Beckett University
-LinkedIn
+Ryan James Forrester — BA Economics and Finance, Leeds Beckett University
